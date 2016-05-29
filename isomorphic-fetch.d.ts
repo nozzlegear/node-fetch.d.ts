@@ -109,8 +109,8 @@ declare module "isomorphic-fetch"
     interface fetch
     {
         Promise: any;
-        Headers: fetch.IHeaders
-        Request: fetch.IRequest;
+        Headers: fetch.Headers
+        Request: fetch.Request;
         Response: fetch.IResponse;
         (url: string | fetch.IRequest, init?: fetch.RequestInit): Promise<fetch.IResponse>;
     }
