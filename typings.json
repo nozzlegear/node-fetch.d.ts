@@ -6,5 +6,6 @@
   "description": "A Typescript/Typings definition for isomorphic-fetch.",
   "ambientDevDependencies": {},
   "dependencies": {
+    
   }
 }
