@@ -7,7 +7,7 @@ An ambient Typescript/isomorphic-fetch definition for [isomorphic-fetch](https:/
 Using [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch):
 
 ```bash
-isomorphic-fetch install github:nozzlegear/isomorphic-fetch.d.ts --save --global
+typings install github:nozzlegear/isomorphic-fetch.d.ts --save --global
 ```
 
 Using NPM and [TSD](https://github.com/Definitelytyped/tsd):
