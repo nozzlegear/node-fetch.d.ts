@@ -1,24 +1,24 @@
 {
-  "name": "isomorphic-fetch.d.ts",
+  "name": "node-fetch.d.ts",
   "version": "1.0.0",
-  "description": "A Typescript/Typings definition for isomorphic-fetch.",
-  "main": "isomorphic-fetch.d.ts",
+  "description": "A Typescript/Typings definition for node-fetch.",
+  "main": "node-fetch.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nozzlegear/isomorphic-fetch.d.ts.git"
+    "url": "git+https://github.com/nozzlegear/node-fetch.d.ts.git"
   },
   "author": "Joshua Harms <joshua@nozzlegear.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nozzlegear/isomorphic-fetch.d.ts/issues"
+    "url": "https://github.com/nozzlegear/node-fetch.d.ts/issues"
   },
-  "homepage": "https://github.com/nozzlegear/isomorphic-fetch.d.ts#readme",
+  "homepage": "https://github.com/nozzlegear/node-fetch.d.ts#readme",
   "typescript": {
     "definitions": [
-      "isomorphic-fetch.d.ts"
+      "node-fetch.d.ts"
     ]
   }
 }

@@ -6,6 +6,6 @@
         "sourceMap": false
     },
     "files":[
-        "isomorphic-fetch.d.ts"
+        "node-fetch.d.ts"
     ]
 }

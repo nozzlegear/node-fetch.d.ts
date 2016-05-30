@@ -1,9 +1,9 @@
 {
-  "name": "isomorphic-fetch",
-  "main": "isomorphic-fetch.d.ts",
+  "name": "node-fetch",
+  "main": "node-fetch.d.ts",
   "ambient": false,
   "author": "Joshua Harms <joshua@nozzlegear.com>",
-  "description": "A Typescript/Typings definition for isomorphic-fetch.",
+  "description": "A Typescript/Typings definition for node-fetch.",
   "ambientDevDependencies": {},
   "dependencies": {
     

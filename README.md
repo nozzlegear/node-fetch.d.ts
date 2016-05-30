@@ -1,19 +1,19 @@
-# isomorphic-fetch.d.ts
+# node-fetch.d.ts
 
-An ambient Typescript/isomorphic-fetch definition for [isomorphic-fetch](https://www.npmjs.com/package/isomorphic-fetch).
+An ambient Typescript/node-fetch definition for [node-fetch](https://www.npmjs.com/package/node-fetch).
 
 ### Installation
 
-Using [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch):
+Using [typings](https://github.com/typings/typings):
 
 ```bash
-typings install github:nozzlegear/isomorphic-fetch.d.ts --save
+typings install github:nozzlegear/node-fetch.d.ts --save
 ```
 
 Using NPM and [TSD](https://github.com/Definitelytyped/tsd):
 
 ```bash
-npm install "git+https://git@github.com/nozzlegear/isomorphic-fetch.d.ts.git"
+npm install "git+https://git@github.com/nozzlegear/node-fetch.d.ts.git"
 
 tsd link
 ```
